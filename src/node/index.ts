@@ -1,5 +1,5 @@
 /**
- * Copyright (C) 2022-2024 Permanent Data Solutions, Inc. All Rights Reserved.
+ * Copyright (C) 2022-2024 atticusofsparta@protonmail.com All Rights Reserved.
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -14,6 +14,7 @@
  * You should have received a copy of the GNU Affero General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
+
 
 // eslint-disable-next-line
 export class DefaultClient {}
